@@ -33,4 +33,5 @@ a.2)View to component(html->ts)
 
     i)Event binding (1 direction) -(event_name)="function_name()";
     ii)Event binding using $event (event_name)="function_name($event)"
+    iii)Event binding using template referencing variable - #variable_name 
  
